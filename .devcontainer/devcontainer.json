@@ -19,9 +19,9 @@
 		"editorconfig.editorconfig"
 	],
 	"postCreateCommand": "",
-	"build": [
+	"build": {
 		"dockerfile": "Dockerfile"
-	]
+	}
 }
 
 // Built with ❤ by [Pipeline Foundation](https://pipeline.foundation) 
